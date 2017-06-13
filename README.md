@@ -20,7 +20,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```ruby
+LubamayViewTool::Renderer.copyright 'Luba May', 'All rights reserved'
+```
 
 ## Development
 
